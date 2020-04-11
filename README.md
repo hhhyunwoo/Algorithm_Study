@@ -7,9 +7,9 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | 문제 번호 | 문제 이름 | 
 | --- | --- |
 | [1000](https://www.acmicpc.net/problem/1000) | A+B | 
-| [1065](https://www.acmicpc.net/problem/1065) | A-B |
-| [1100](https://www.acmicpc.net/problem/1100) | A-B |
-| [1120](https://www.acmicpc.net/problem/1120) | A-B |
+| [1065](https://www.acmicpc.net/problem/1065) | 한수 |
+| [1100](https://www.acmicpc.net/problem/1100) | 하얀 칸 |
+| [1120](https://www.acmicpc.net/problem/1120) | 문자열 |
 | [1138](https://www.acmicpc.net/problem/1138) | A-B |
 | [1463](https://www.acmicpc.net/problem/1463) | A-B |
 | [1759](https://www.acmicpc.net/problem/1759) | A-B |
