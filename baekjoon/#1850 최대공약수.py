@@ -9,7 +9,4 @@ def gcd(a,b):
 
 A,B = map(int,input().split())
 answer = gcd(A,B)
-ans = ""
-for i in range(answer):
-    ans+='1'
-print(ans)
+print('1'*answer)
