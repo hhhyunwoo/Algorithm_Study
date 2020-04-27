@@ -6,18 +6,18 @@ Algorithm_Study_with_Python
 * **풀어볼 것들**
 
 | 문제 번호 |         제목         |               URL                | 풀이(O,X) ||   알고리즘   |
-| :-------: | :------------------: | :------------------------------: | :-------: ||
-|   11559   |      Puyo Puyo       | https://www.acmicpc.net/problem/11559 |     X     ||
-|   1577   |      도로의 개수       | https://www.acmicpc.net/problem/1577 |     X     ||
-|   17070   |      파이프 옮기기 1       | https://www.acmicpc.net/problem/17070 |     X     ||
-|   1931   |      회의실배정       | https://www.acmicpc.net/problem/1931 |     X     ||
+| :-------: | :------------------: | :------------------------------: | :-------: | |
+|   11559   |      Puyo Puyo       | https://www.acmicpc.net/problem/11559 |     X     | |
+|   1577   |      도로의 개수       | https://www.acmicpc.net/problem/1577 |     X     | |
+|   17070   |      파이프 옮기기 1       | https://www.acmicpc.net/problem/17070 |     X     | |
+|   1931   |      회의실배정       | https://www.acmicpc.net/problem/1931 |     X     | |
 |   2042   |      구간 합 구하기       | https://www.acmicpc.net/problem/2042 |     X     |세그먼트 트리|
 |   2170   |      선 긋기       | https://www.acmicpc.net/problem/2170 |     X     |스위핑|
 |   5419   |      북서풍       | https://www.acmicpc.net/problem/5419 |     X     |스위핑|
 ::
-|   4012   |      요리사       | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH& |     X     |
-|   4008   |      숫자 만들기       | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH |     X     |
-|   5653   |      줄기세포배양       | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo |     X     |
+|   4012   |      요리사       | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH& |     X     | |
+|   4008   |      숫자 만들기       | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH |     X     | |
+|   5653   |      줄기세포배양       | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo |     X     | |
 
 ------
 
