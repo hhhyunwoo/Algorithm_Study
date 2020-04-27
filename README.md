@@ -14,7 +14,7 @@ Algorithm_Study_with_Python
 |   2042   |      구간 합 구하기       | https://www.acmicpc.net/problem/2042 |     X     |세그먼트 트리|
 |   2170   |      선 긋기       | https://www.acmicpc.net/problem/2170 |     X     |스위핑|
 |   5419   |      북서풍       | https://www.acmicpc.net/problem/5419 |     X     |스위핑|
-::
+|||SWEA|||
 |   4012   |      요리사       | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH& |     X     | |
 |   4008   |      숫자 만들기       | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH |     X     | |
 |   5653   |      줄기세포배양       | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo |     X     | |
