@@ -1,6 +1,15 @@
 Algorithm_Study_with_Python
 ==========
 
+------
+
+* **다시 풀어볼 것 들**
+
+| 문제 번호 |         제목         |               URL                | 풀이(O,X) |
+| :-------: | :------------------: | :------------------------------: | :-------: |
+|   1912   |      연속합       | https://www.acmicpc.net/problem/1912 |     X     |
+
+------
 
 Baekjoon Online Judge (https://www.acmicpc.net)
 ----------
