@@ -5,7 +5,7 @@ Algorithm_Study_with_Python
 
 * **풀어볼 것들**
 
-| 문제 번호 |         제목         |               URL                | 풀이(O,X) ||   알고리즘   |
+| 문제 번호 |         제목         |               URL                | 풀이(O,X) |   알고리즘   |
 | :-------: | :------------------: | :------------------------------: | :-------: | :-------: |
 |   11559   |      Puyo Puyo       | https://www.acmicpc.net/problem/11559 |     X     | |
 |   1577   |      도로의 개수       | https://www.acmicpc.net/problem/1577 |     X     | |
