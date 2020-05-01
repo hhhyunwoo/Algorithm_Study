@@ -37,7 +37,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1065](https://www.acmicpc.net/problem/1065) | 한수 |
 | [1100](https://www.acmicpc.net/problem/1100) | 하얀 칸 |
 | [1120](https://www.acmicpc.net/problem/1120) | 문자열 |
-| [1138](https://www.acmicpc.net/problem/1138) | A-B |
+| [1138](https://www.acmicpc.net/problem/1138) | 한 줄로 서기 |
 | [1463](https://www.acmicpc.net/problem/1463) | A-B |
 | [1759](https://www.acmicpc.net/problem/1759) | A-B |
 | [1874](https://www.acmicpc.net/problem/1874) | A-B |
