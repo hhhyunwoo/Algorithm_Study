@@ -39,7 +39,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1120](https://www.acmicpc.net/problem/1120) | 문자열 |
 | [1138](https://www.acmicpc.net/problem/1138) | 한 줄로 서기 |
 | [1463](https://www.acmicpc.net/problem/1463) | 1로 만들기 |
-| [1759](https://www.acmicpc.net/problem/1759) | A-B |
+| [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기  |
 | [1874](https://www.acmicpc.net/problem/1874) | A-B |
 | [1924](https://www.acmicpc.net/problem/1924) | A-B |
 | [1978](https://www.acmicpc.net/problem/1978) | A-B |
