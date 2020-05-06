@@ -1,5 +1,10 @@
 #2018 카카오 비밀지도
 
+'''
+str_a.rjust(n,'0')
+으로 하면 n크기 만큼 정렬되면서 0이 채워진다.
+'''
+
 def solution(n, arr1, arr2):
     answer = []
     print(str(bin(arr1[0])))
