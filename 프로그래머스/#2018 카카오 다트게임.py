@@ -1,5 +1,9 @@
 #2018 카카오 다트게임
 
+'''
+정규표현식 공부하기
+'''
+
 import math
 
 def solution(dartResult):
