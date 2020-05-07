@@ -41,7 +41,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1463](https://www.acmicpc.net/problem/1463) | 1로 만들기 |
 | [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기  |
 | [1874](https://www.acmicpc.net/problem/1874) | 스택 수열 |
-| [1924](https://www.acmicpc.net/problem/1924) | A-B |
+| [1924](https://www.acmicpc.net/problem/1924) | 2007년 |
 | [1978](https://www.acmicpc.net/problem/1978) | A-B |
 | [1987](https://www.acmicpc.net/problem/1987) | A-B |
 | [1992](https://www.acmicpc.net/problem/1992) | A-B |
