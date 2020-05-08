@@ -23,26 +23,11 @@ end ~ end +1 구간 이렇게 두개를 잡고 카운팅을 했다
 
 와... 다른 풀이에서 그냥 h,m,s를 싹 초로 변환해서 계산한 사람이 있다. 그렇게 되면 내가 만든 compare 함수가 전혀 필요가 없다!! 
 
+
+오잉 start 말고 end 만 봐도 가능하네?? 왜그렇지,,,
 '''
 
 import copy
-
-def cmp_time(start,cmp): #start 가 크거나 같으면 1, 작으면 0
-    #단순 시간 비교 h,m,s 각각 비교
-    if start[0] > cmp[0]:
-        return True
-    elif start[0] < cmp[0]:
-        return False
-    else:
-        if start[1] > cmp[1]:
-            return True
-        elif start[1] < cmp[1]:
-            return False
-        else:
-            if start[2] >= cmp[2]:
-                return True
-            else:
-                return False
 
 def cmp_time2(start,cmp): #start 가 크거나 1, 작거나 같으면 0
     #단순 시간 비교 h,m,s 각각 비교
@@ -85,21 +70,6 @@ def solution(lines):
     
     start_list = sorted(start_list,key=lambda k: (k[0][0],k[0][1],k[0][2]))
     
-    for s in start_list: #모든 스타트 살핌
-        cnt = 0
-        for c in start_list:
-            if cmp_time(s[0],c[0]) and cmp_time(c[1],s[0]):
-                cnt +=1
-            elif cmp_time(c[0],s[0]):
-                tmp = copy.deepcopy(s[0])
-                tmp[2] += 1 #1초 증가
-                if cmp_time(c[0],tmp):
-                    MAX = max(cnt,MAX)
-                    break
-                else:
-                    cnt +=1
-        MAX = max(cnt,MAX)
-
     for s in start_list: #모든 엔드 살핌
         cnt = 0
         for c in start_list:
