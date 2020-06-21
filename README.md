@@ -42,10 +42,10 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기  |
 | [1874](https://www.acmicpc.net/problem/1874) | 스택 수열 |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 |
-| [1978](https://www.acmicpc.net/problem/1978) | A-B |
-| [1987](https://www.acmicpc.net/problem/1987) | A-B |
-| [1992](https://www.acmicpc.net/problem/1992) | A-B |
-| [2156](https://www.acmicpc.net/problem/2156) | A-B |
+| [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 |
+| [1987](https://www.acmicpc.net/problem/1987) | 알파벳 |
+| [1992](https://www.acmicpc.net/problem/1992) | 쿼드트리 |
+| [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 |
 | [2193](https://www.acmicpc.net/problem/2193) | A-B |
 | [2217](https://www.acmicpc.net/problem/2217) | A-B |
 | [2309](https://www.acmicpc.net/problem/2309) | A-B |
