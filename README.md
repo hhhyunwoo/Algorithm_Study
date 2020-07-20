@@ -46,7 +46,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1987](https://www.acmicpc.net/problem/1987) | 알파벳 |
 | [1992](https://www.acmicpc.net/problem/1992) | 쿼드트리 |
 | [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 |
-| [2193](https://www.acmicpc.net/problem/2193) | A-B |
+| [2193](https://www.acmicpc.net/problem/2193) | 이친수 |
 | [2217](https://www.acmicpc.net/problem/2217) | A-B |
 | [2309](https://www.acmicpc.net/problem/2309) | A-B |
 | [2315](https://www.acmicpc.net/problem/2315) | A-B |
